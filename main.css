@@ -1,6 +1,7 @@
 body {
-    background-color: #dad99e;
+    background-color: #2fff9e;
 }
+
 hr {
     margin-top:50px;
     margin-bottom:50px;
@@ -9,4 +10,8 @@ hr {
     border-top-style:dotted;
     width: 30%;
     border-color: #000000;
+}
+
+h1, h3, h2 {
+    text-align:center;
 }
