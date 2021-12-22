@@ -15,3 +15,12 @@ hr {
 h1, h3, h2 {
     text-align:center;
 }
+
+ul, ol, img {
+    display:block;
+    max-width:500px;
+    margin-top:0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
